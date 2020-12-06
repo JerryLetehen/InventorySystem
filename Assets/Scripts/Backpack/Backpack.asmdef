@@ -1,0 +1,17 @@
+{
+    "name": "Backpack",
+    "references": [
+        "GUID:165d135ea925848129f91a8c3b3d6065",
+        "GUID:d4ac3246fb3754ad6b4caa457c986eaf",
+        "GUID:fb3a9da4b007c4509835c518524927db"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
